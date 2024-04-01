@@ -339,6 +339,7 @@ See [CONTRIBUTING.md](./docs/CONTRIBUTING.md).
     [251]  Fine Offset / Ecowitt WH55 water leak sensor
     [252]  BMW Gen4-Gen5 TPMS and Audi TPMS Pressure Alert, multi-brand HUF/Beru, Continental, Schrader/Sensata, Audi
     [253]  Watts WFHT-RF Thermostat
+<<<<<<< HEAD
     [254]  Thermor DG950 weather station
     [255]  Mueller Hot Rod water meter
     [256]  ThermoPro TP28b Super Long Range Wireless Meat Thermometer for Smoker BBQ Grill
@@ -360,6 +361,10 @@ See [CONTRIBUTING.md](./docs/CONTRIBUTING.md).
     [272]  Landis & Gyr Gridstream Power Meters 19.2k
     [273]  Landis & Gyr Gridstream Power Meters 38.4k
     [274]  Revolt ZX-7717 power meter
+=======
+    [254]  Thermor DG950 Weather Station
+    [255]  Mueller Hot Rod water meter
+>>>>>>> bcc9fb48 (Fix gallon values to 7 nibbles and resolve conflict)
 
 * Disabled by default, use -R n or a conf file to enable
 
